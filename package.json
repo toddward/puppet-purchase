@@ -13,6 +13,7 @@
     "newegg-bot": "sh scripts/newegg/build.sh",
     "target-bot": "sh scripts/target/build.sh",
     "walmart-bot": "sh scripts/walmart/build.sh",
+    "ubiquiti-bot": "sh scripts/ubiquiti/build.sh",
     "bestbuy-bot-test": "sh scripts/test/bestbuy-bot.test.sh",
     "gamestop-bot-test": "sh scripts/test/gamestop-bot.test.sh",
     "micro-bot-test": "sh scripts/test/micro-bot.test.sh",
