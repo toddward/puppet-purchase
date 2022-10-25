@@ -28,12 +28,12 @@
     "walmart-find-stocks-test": "sh scripts/test/walmart-find-stocks.test.sh"
   },
   "dependencies": {
-    "balanced-match": "^1.0.0",
+    "balanced-match": "^2.0.0",
     "cli-spinner": "^0.2.10",
     "colors": "1.4.0",
-    "core-util-is": "^1.0.2",
-    "dotenv": "8.2.0",
-    "puppeteer": "^8.0.0",
-    "webpack-dev-server": "^3.11.2"
+    "core-util-is": "^1.0.3",
+    "dotenv": "16.0.3",
+    "puppeteer": "^19.1.1",
+    "webpack-dev-server": "^4.11.1"
   }
 }
